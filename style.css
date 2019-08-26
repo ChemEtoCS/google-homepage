@@ -4,13 +4,14 @@
 	margin-right: auto;
 	width:30%;
 }
-.search{
-	margin-left: auto;
-	width:auto;
-	padding:5px;
-}
-input{
-	display: block;
+/*.function{
 	margin: auto;
 	width: 50%;
+	padding: 10px;
+}*/
+input{
+	
+}
+.search{
+
 }
